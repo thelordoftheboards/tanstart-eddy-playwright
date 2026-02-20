@@ -1,1 +1,1 @@
-E2E tests for https://github.com/thelordoftheboards/tanstart-eddy
+🛥️ E2E tests for https://github.com/thelordoftheboards/tanstart-eddy
